@@ -1,16 +1,19 @@
-## Hi there 👋
+## Eai pessoal, Eu sou Emerson Perez
 
-<!--
-**emersonperez4/emersonperez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🌱 Estou estudando curso de Ads e Desenvolvimento Web no momento
 
-Here are some ideas to get you started:
+### 📈 Minhas estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub de Emerson](https://github-readme-stats.vercel.app/api?username=emersonperez4&show_icons=true&theme=radical)
+
+### 🌐 Conecte-se Comigo
+
+<div>
+  <a<a href="https://discord.com/channels/@mr_bisharp" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
+</div>
+
+---
+Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato, se quiser colaborar ou apenas conversar sobre tecnologia!
